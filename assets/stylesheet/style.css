@@ -506,6 +506,8 @@ a {
 
 .home-col5-flex {
   display: flex;
+  overflow-y: auto;
+  overflow-x: hidden;
 }
 .home-col5-1 img {
   height: 100%;
@@ -1103,3 +1105,5 @@ date {
   padding: 0 0;
   color: #495969;
 }
+
+/* scrolling  */
